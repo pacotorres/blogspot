@@ -4,3 +4,10 @@ body{
     color: white;
     font-family: "Comic Sans MS";
 }
+
+#container{
+    border: 1px solid red;
+    text-align: center;
+    background: green;
+    margin: 0 auto;
+}
