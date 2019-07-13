@@ -11,3 +11,8 @@ body{
     background: green;
     margin: 0 auto;
 }
+
+p{
+    background: yellow;
+    color: orange;
+}
