@@ -1,4 +1,4 @@
-# blogspot
+# Blogspot
 Un blog de GitHub de un curso 
 
 >El curso de GitHub me esta dando mucho conocimiento en cargar mis proyectos en el repositorio, y asi podre compartir mis proyectos con las demas personas que me gustaria que hecharan un visto de lo que yo hice
